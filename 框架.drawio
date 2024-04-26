@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T08:04:32.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="lOUVXr1zAkozlQlbLlll" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T08:14:39.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="fnho2oqogkM3LA1pN8ht" version="24.3.0" type="github">
   <diagram name="第 1 页" id="wNHHYVKB3M-TUg98brvx">
     <mxGraphModel dx="683" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -44,9 +44,6 @@
           <mxGeometry x="0.2299" y="2" relative="1" as="geometry">
             <mxPoint x="-85" y="2" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="vrlTT0cc8bSnszCSpHDe-3" value="AI训练推理框架&#xa;Pytorch/Tensorflow" style="rounded=1;verticalAlign=middle;fillColor=#DBDBDB;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="145" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vrlTT0cc8bSnszCSpHDe-32" value="" style="group;fontSize=12;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="390" y="160" width="90" height="40" as="geometry" />
@@ -258,6 +255,15 @@
             <mxPoint x="710" y="350" as="sourcePoint" />
             <mxPoint x="760" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vrlTT0cc8bSnszCSpHDe-112" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="190" y="145" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vrlTT0cc8bSnszCSpHDe-3" value="AI训练推理框架" style="rounded=1;verticalAlign=top;fillColor=#DBDBDB;strokeColor=none;spacing=6;" vertex="1" parent="vrlTT0cc8bSnszCSpHDe-112">
+          <mxGeometry width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vrlTT0cc8bSnszCSpHDe-111" value="Pytorch/Tensorflow" style="text;strokeColor=none;align=center;fillColor=none;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=10.5;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="vrlTT0cc8bSnszCSpHDe-112">
+          <mxGeometry x="15" y="25" width="90" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
