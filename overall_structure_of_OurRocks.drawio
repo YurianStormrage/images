@@ -87,29 +87,38 @@
         <mxCell id="187SILqyfetdyiTK7HJO-11" value="1.Predicate Pushdown for Table" style="text;strokeColor=none;align=left;fillColor=none;verticalAlign=middle;rounded=0;fontStyle=3;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-150" y="200" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="187SILqyfetdyiTK7HJO-15" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="120" y="130" width="210" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="187SILqyfetdyiTK7HJO-9" value="" style="rounded=1;fillColor=#D6D7D9;dashed=1;strokeWidth=1;fontStyle=1" vertex="1" parent="187SILqyfetdyiTK7HJO-15">
-          <mxGeometry x="60" y="30" width="30" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="187SILqyfetdyiTK7HJO-10" value="" style="rounded=1;fillColor=#D6D7D9;dashed=1;strokeWidth=1;fontStyle=1" vertex="1" parent="187SILqyfetdyiTK7HJO-15">
-          <mxGeometry x="100" y="30" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="187SILqyfetdyiTK7HJO-14" value="" style="group" vertex="1" connectable="0" parent="187SILqyfetdyiTK7HJO-15">
-          <mxGeometry width="210" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="187SILqyfetdyiTK7HJO-12" value="" style="rounded=0;fillColor=none;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="187SILqyfetdyiTK7HJO-14">
-          <mxGeometry width="210" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="187SILqyfetdyiTK7HJO-13" value="Join Buffer" style="text;strokeColor=none;align=center;fillColor=none;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="187SILqyfetdyiTK7HJO-14">
-          <mxGeometry width="70" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="187SILqyfetdyiTK7HJO-16" value="Data Blocks&#xa;Collector" style="rounded=1;fillColor=none;dashed=1;strokeWidth=1;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="20" y="300" width="80" height="40" as="geometry" />
+          <mxGeometry x="20" y="295" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="187SILqyfetdyiTK7HJO-17" value="Block Nested Join" style="text;strokeColor=none;align=center;fillColor=default;verticalAlign=middle;rounded=0;fontStyle=3;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="60" y="200" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="187SILqyfetdyiTK7HJO-22" value="" style="rounded=0;fillColor=none;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="187SILqyfetdyiTK7HJO-23" value="System Memory" style="text;strokeColor=none;align=left;fillColor=none;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="125" y="270" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="187SILqyfetdyiTK7HJO-24" value="Data Blocks List" style="rounded=1;fillColor=none;dashed=1;strokeWidth=1;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="187SILqyfetdyiTK7HJO-25" value="Blocks&#xa;Index&#xa;List" style="rounded=1;fillColor=none;dashed=1;strokeWidth=1;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="187SILqyfetdyiTK7HJO-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="130" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="187SILqyfetdyiTK7HJO-12" value="" style="rounded=0;fillColor=none;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="187SILqyfetdyiTK7HJO-14">
+          <mxGeometry width="239.99999999999997" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="187SILqyfetdyiTK7HJO-13" value="Join Buffer" style="text;strokeColor=none;align=left;fillColor=none;verticalAlign=middle;rounded=0;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="187SILqyfetdyiTK7HJO-14">
+          <mxGeometry x="5.7142857142857135" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="187SILqyfetdyiTK7HJO-10" value="" style="rounded=1;fillColor=#D6D7D9;dashed=1;strokeWidth=1;fontStyle=1" vertex="1" parent="187SILqyfetdyiTK7HJO-14">
+          <mxGeometry x="104.76190476190476" y="30" width="62.85714285714286" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="187SILqyfetdyiTK7HJO-9" value="" style="rounded=1;fillColor=#D6D7D9;dashed=1;strokeWidth=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="182.85714285714286" y="160" width="31.42857142857143" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
